@@ -37,9 +37,58 @@ The main objectives of this project are:
 •	To apply advanced DAX and Time Intelligence calculations
 
 To create an interactive and user-friendly analytical dashboard
-
+# Dashboards
 
 ![pbi1](images/pbi1.jpg)
 ![pbi2](images/pbi2.jpg)
 ![pbi3](images/pbi3.jpg)
 ![pbi4](images/pbi4.jpg)
+
+# 1. Executive Dashboard
+The Executive Dashboard provides a high-level summary of overall business performance using KPI indicators and trend analysis.
+Included KPIs
+
+•	Total Sales Revenue
+
+•	Total Profit
+
+•	Net Profit
+
+•	Order Quantity
+
+•	Return Quantity
+
+•	Return Rate
+
+•	Profit Margin
+
+•	Net Sales
+
+•	Total Cost
+
+Executive Insights
+
+•	Monthly sales trend analysis
+
+•	Forecasting and trend visualization
+
+•	Category-wise order quantity analysis
+
+•	Top-performing products analysis
+
+•	Profit margin evaluation
+
+•	Return rate monitoring
+
+•	Comparative KPI tracking
+
+The dashboard dynamically updates using slicers for:
+
+•	Year
+
+•	Region
+
+•	Country
+
+This allows users to perform real-time business filtering and comparative analysis.
+
