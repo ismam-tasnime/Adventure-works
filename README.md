@@ -253,3 +253,154 @@ Visual Insights
 The use of Treemap Visualization effectively represents customer segment distribution visually and improves analytical storytelling.
 
 
+# Data Analytics Techniques Used
+This project demonstrates the application of several advanced Data Analytics and Business Intelligence techniques.
+
+# 1. Data Cleaning & Transformation
+
+Performed using Power Query Editor:
+
+•	Data type correction
+
+•	Null value handling
+
+•	Column transformation
+
+•	Data formatting
+
+•	Relationship preparation
+
+# 2. Data Modeling
+
+Implemented professional star-schema-based relationships between:
+
+•	Sales Table
+
+•	Customer Table
+
+•	Product Table
+
+•	territory Table
+
+•	Date Table
+
+• category and subcategory table
+
+This improved dashboard performance and analytical efficiency.
+
+# 3. DAX Measures & Calculations
+   
+Extensive DAX measures were created for advanced KPI calculations.
+
+DAX Measures Included
+
+•	Total Revenue
+
+•	Total Profit
+
+•	Net Profit
+
+•	Profit Margin %
+
+•	Return Rate %
+
+•	Total Orders
+
+•	Order Quantity
+
+•	Total Cost
+
+•	Net Sales
+
+•	AOV (Average Order Value)
+
+•	RFM Scores
+
+•	Dynamic KPI Measures
+
+# 4. Time Intelligence Functions
+
+Advanced Time Intelligence calculations were implemented using DAX functions.
+
+Time Intelligence Features
+
+•	month over month analysis
+
+•	Year-wise analysis
+
+•	Monthly trend analysis
+
+•	Sales growth tracking
+
+•	Time-based KPI comparison
+
+•	Forecast trend visualization
+
+These calculations helped create dynamic trend analysis visuals throughout the dashboard.
+
+# 5. Interactive Dashboard Design
+
+The project includes:
+
+•	Dynamic slicers
+
+•	Cross-filtering
+
+•	Interactive visuals
+
+•	Drill-down capability
+
+•	Navigation between report pages
+
+•	Responsive KPI cards
+
+This improves user experience and analytical interaction.
+
+# Professional Highlights of the Project
+Advanced Analytical Capabilities
+
+This project demonstrates strong practical skills in:
+
+•	Business Intelligence
+
+•	Data Visualization
+
+•	Customer Analytics
+
+•	Product Analytics
+
+•	Geographic Analytics
+
+•	DAX Programming
+
+•	AI-based Visualization
+
+•	KPI Engineering
+
+•	Data Storytelling
+
+#Technical Skills Demonstrated
+
+Power BI Skills
+
+•	Power Query
+
+•	Data Modeling
+
+•	Relationship Management
+
+•	DAX Measures
+
+•	Time Intelligence
+
+•	KPI Development
+
+•	Dashboard Design
+
+•	Interactive Reporting
+
+•	AI Visual Implementation
+
+
+
+
