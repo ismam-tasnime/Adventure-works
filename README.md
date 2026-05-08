@@ -379,7 +379,7 @@ This project demonstrates strong practical skills in:
 
 •	Data Storytelling
 
-#Technical Skills Demonstrated
+# Technical Skills Demonstrated
 
 Power BI Skills
 
