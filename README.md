@@ -38,5 +38,5 @@ The main objectives of this project are:
 
 To create an interactive and user-friendly analytical dashboard
 
-images/pbi1.jpg
 
+![pbi1](images/pbi1.jpg)
