@@ -10,8 +10,11 @@ The dashboard provides a centralized analytical platform where users can monitor
 The project contains multiple analytical pages including:
 
 •	Executive Dashboard
+
 •	Territory Analysis
+
 •	Product Analysis
+
 •	Customer Analysis
 
 Each page was carefully designed with interactive slicers, KPI cards, advanced charts, and AI visuals to ensure professional storytelling and efficient business analysis.
