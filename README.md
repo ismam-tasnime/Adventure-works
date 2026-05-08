@@ -221,12 +221,14 @@ o	Adjust Sales Strategies: Quickly adjust sales strategies based on real-time da
 o	Sales and KPIs (order quantity, revenue, return rate, etc.) are not meeting the set goals for some regions.
 # •	Solution:
 o	Realignment of Sales Targets: Reassess whether the sales goals set for each territory are realistic and achievable given historical data. For regions that are not meeting expectations, set smaller, incremental targets to drive consistent growth.
+
 o	Sales Support and Training: Invest in region-specific training for the sales team, focusing on territory-specific sales tactics and competitive advantage.
 # 5. Uneven Product Performance in Regions
 •	Problem:
 o	Some products are significantly underperforming in specific territories while others are performing well.
 # •	Solution:
 o	Product Customization: Modify or tailor product offerings based on regional preferences. For instance, certain colors, designs, or features may appeal more to customers in specific regions.
+
 o	Promotional Campaigns for Underperforming Products: Launch promotional campaigns specifically targeting underperforming products in certain territories. Bundle underperforming products with popular ones to increase sales.
 
 # 7. Low Profit in Certain Regions
@@ -293,9 +295,11 @@ Product Performance Insights
 # •	Monthly return trend tracking
 # 1.	Sales Performance by Product Type:
 o	There is a clear comparison of sales by product type across different months. For example, Road Bikes seem to have strong sales, but Vests might have lower sales.
+
 o	Profit margins and order quantities are also compared, which helps to track product profitability.
 # 2.	Return Rate Analysis:
 o	The return rate is displayed, which seems to be fairly high for certain categories like “Clothing.” This might indicate issues with product quality, shipping, or customer satisfaction.
+
 o	Return rate by region helps identify if returns are high in any specific areas (e.g., United Kingdom and Australia).
 # 3.	Inventory & Stock:
 o	Information on the stock levels for each product category is crucial for understanding inventory management. It appears that products with higher sales (e.g., Road Bikes) may be in high demand, but stock management is important to ensure continued sales.
