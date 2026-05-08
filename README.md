@@ -40,3 +40,6 @@ To create an interactive and user-friendly analytical dashboard
 
 
 ![pbi1](images/pbi1.jpg)
+![pbi2](images/pbi2.jpg)
+![pbi3](images/pbi3.jpg)
+![pbi4](images/pbi4.jpg)
