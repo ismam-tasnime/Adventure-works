@@ -87,6 +87,68 @@ The dashboard dynamically updates using slicers for:
 •	Country
 
 This allows users to perform real-time business filtering and comparative analysis.
+# Business Insights
+
+# 1. Declining Sales Trend
+•	Problem: From the trend of net sales, it’s clear that sales have fluctuated, with a declining trend observed in some periods. The sales volume drops are concerning, indicating a potential issue with product demand, sales strategies, or marketing effectiveness.
+
+# Solution:
+
+o	Actionable Insight: Evaluating the cause of the decline by looking at specific time periods. If the decline is seasonal, adjust inventory or promotional strategies to align with market demand. If the decline is unrelated to seasonality, consider reviewing marketing campaigns or sales strategies that may need optimization.
+
+o	Data-Driven Solution: Using a time-series analysis to predict future sales trends more accurately, and adjust strategies in real time. Consider setting up automated alerts when sales fall below a specific threshold so that immediate action can be taken.
+
+# 2. Low Return on Investment (ROI)
+•	Problem: The profit margins in some areas seem to be low, especially on certain products like the Road Bikes. Some categories have been identified with net profits lower than expected, which could be a direct reflection of pricing strategy, high costs, or low product demand.
+
+# Solution:
+
+o	Actionable Insight: Evaluating the products or product categories with the lowest profit margins and assess whether there are issues with production cost, overheads, or pricing.
+
+o	Cost Optimization: need to Look for opportunities to reduce costs or negotiate better supplier deals. Implement dynamic pricing strategies that respond to demand fluctuations.
+
+o	Product Rationalization: If certain products consistently have low margins and high return rates, we need to consider removing them from the product line or offering discounts to clear stock, if they no longer align with the company’s goals.
+# 3. Poor Return Rates
+•	Problem: The return rate on several products is high (as shown in the return rate visual), which is detrimental to profitability. This suggests a disconnect between customer expectations and product quality or marketing promises.
+# Solution:
+
+o	Actionable Insight: Dive deeper into customer reviews and feedback to understand the reasons behind the high return rates. Is it due to poor product quality, misleading advertising, or incorrect customer expectations?
+
+o	Customer Engagement: Strengthen post-purchase customer support and clearly communicate product features. Consider implementing a “no questions asked” return policy on certain high-risk items to build trust.
+
+o	Supplier Collaboration: Work with suppliers to improve product quality or find cost-effective ways to reduce defect rates, thus lowering return rates.
+# 4. Low Goal Completion
+•	Problem: The “order quantity and PM by start of the month” widget shows that sales goals for some products, like the Vests, are underperforming. Only 23% of the target is met in some cases, which signals that these products are not moving as expected.
+# Solution:
+
+o	Actionable Insight: Reassess the marketing strategy for these underperforming products. Use targeted promotions, flash sales, or bundle offers to boost sales and meet these targets.
+
+o	Stock Optimization: should Analyze the stock levels to ensure that there is enough inventory available for high-demand periods. For products with low demand, consider reducing stock or offering discounts to clear them out.
+
+o	Product Placement: Adjust visibility for underperforming products, either on the website or through your advertising channels, to ensure that they reach the intended customer segment.
+# 5. Sales Target Misses in Certain Regions
+•	Problem: Some regions, like Central Europe and the UK, show inconsistent sales results compared to their sales targets. The regional sales performance seems to vary significantly.
+# Solution:
+o	Actionable Insight: Leverage geographic and customer segmentation data to tailor marketing efforts more regionally. Are customers in these regions responding to different sales pitches or products?
+
+o	Targeted Regional Campaigns: Implement region-specific promotional campaigns, ensuring that the messaging and offers resonate with local preferences.
+
+o	Sales Force Optimization: If sales performance is poor in specific areas, it may be necessary to look at local sales teams’ effectiveness, training, or incentive structures.
+
+# 6. Potential Overstock of Low-Performing Products
+•	Problem: Products like the Mountain Bikes are contributing disproportionately to the stock levels while the return rates seem manageable. This indicates that the stock may be sitting longer than expected, which ties up capital.
+# Solution:
+o	Actionable Insight: Review inventory turnover ratios and optimize supply chain management to reduce overstock. Excess stock ties up resources and risks being written off if not sold.
+
+o	Dynamic Pricing: Introduce discount pricing or clearance sales for excess inventory to increase sales velocity. Integrating machine learning algorithms into the pricing strategy can help with the dynamic adjustment of prices based on demand and stock levels.
+
+# 8. Data Inconsistencies in Product Performance
+•	Problem: The performance data on some products is inconsistent. For example, certain products are showing low return rates and high sales, but not contributing to profit as expected.
+# Solution:
+o	Actionable Insight: Deepen the analysis by breaking down product performance by product variations, such as color, size, or model. Are certain configurations underperforming? Are there specific supply chain or delivery issues causing delays or dissatisfaction?
+
+o	Advanced Segmentation: Apply clustering or segmentation analysis to categorize products based on their performance to identify and isolate the issues in underperforming product types or variants.
+
 
 ![pbi2](images/pbi2.jpg)
 # 2. Territory Analysis
