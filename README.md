@@ -40,10 +40,6 @@ To create an interactive and user-friendly analytical dashboard
 # Dashboards
 
 ![pbi1](images/pbi1.jpg)
-![pbi2](images/pbi2.jpg)
-![pbi3](images/pbi3.jpg)
-![pbi4](images/pbi4.jpg)
-
 # 1. Executive Dashboard
 The Executive Dashboard provides a high-level summary of overall business performance using KPI indicators and trend analysis.
 Included KPIs
@@ -91,4 +87,169 @@ The dashboard dynamically updates using slicers for:
 •	Country
 
 This allows users to perform real-time business filtering and comparative analysis.
+
+![pbi2](images/pbi2.jpg)
+# 2. Territory Analysis
+The Territory Analysis dashboard focuses on geographical sales performance and regional profitability.
+Features Included
+
+•	Global sales distribution map
+
+•	Country-wise order quantity analysis
+
+•	Continent-wise KPI comparison
+
+•	Region-level profitability analysis
+
+•	Profit margin comparison by region
+
+•	Net sales and net profit evaluation
+
+Analytical Insights
+
+•	High-performing regions
+
+•	Revenue-generating territories
+
+•	Regional profit contribution
+
+•	Geographic sales concentration
+
+•	Continental performance comparison
+
+The interactive map visualization improves geographic business understanding and decision-making efficiency.
+
+![pbi3](images/pbi3.jpg)
+# 3. Product Analysis Dashboard
+The Product Analysis page focuses on product-level performance evaluation using advanced Power BI visualizations and AI-powered analytical tools.
+
+Advanced Features Used
+
+Decomposition Tree (AI Feature)
+
+One of the major highlights of this project is the implementation of the Decomposition Tree AI Visual in Product Analysis.
+This AI-powered feature allows dynamic drill-down analysis across:
+
+•	Product Category
+
+•	Subcategory
+
+•	Product Name
+
+•	Return Rate
+
+•	Sales Performance
+
+The decomposition tree enables users to identify hidden patterns and root-cause factors affecting business metrics interactively.
+Product KPIs
+
+The page analyzes:
+
+•	Order Sales
+
+•	Profit Margin
+
+•	Net Profit
+
+•	Net Sales
+
+•	Return Rate
+
+•	Revenue
+
+•	Stock Analysis
+
+Product Performance Insights
+
+•	Top-performing products
+
+•	High return-rate products
+
+•	Best-selling categories
+
+•	Subcategory contribution analysis
+
+•	Product-level profitability comparison
+
+•	Monthly return trend tracking
+
+![pbi4](images/pbi4.jpg)
+# 4. Customer Analysis Dashboard
+
+The Customer Analysis page focuses on customer purchasing behavior and customer segmentation analytics.
+ 
+RFM Segmentation Analysis
+
+A major advanced analytical feature implemented in this project is RFM Segmentation.
+
+RFM Meaning RFM stands for:
+
+•	Recency → How recently a customer purchased
+
+•	Frequency → How frequently the customer purchases
+
+•	Monetary → How much revenue the customer generates
+ 
+RFM Segmentation Measures
+The project includes custom-built DAX measures for:
+
+•	R Score
+
+•	F Score
+
+•	M Score
+
+•	Combined RFM Score
+
+•	Customer Segments Classification
+
+Using these measures, customers were segmented into categories such as:
+
+•	Champions
+
+•	Loyal Customers
+
+•	Potential Loyalists
+
+•	New Customers
+
+•	At Risk Customers
+
+•	Lost Customers
+
+•	Cannot Lose Them
+
+•	About to Sleep
+ 
+Customer Analysis Features
+Included Metrics
+
+•	Revenue by Customer
+
+•	Profit by Customer
+
+•	Average Order Value (AOV)
+
+•	Customer Purchase Frequency
+
+•	RFM Score
+
+•	Customer Segment Classification
+
+Visual Insights
+
+•	Customer purchase behavior trends
+
+•	Segment-wise customer distribution
+
+•	High-value customer identification
+
+•	Revenue contribution by segment
+
+•	Loyalty pattern analysis
+
+•	Customer retention behavior visualization
+
+The use of Treemap Visualization effectively represents customer segment distribution visually and improves analytical storytelling.
+
 
