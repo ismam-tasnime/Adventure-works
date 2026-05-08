@@ -142,7 +142,7 @@ o	Actionable Insight: Review inventory turnover ratios and optimize supply chain
 
 o	Dynamic Pricing: Introduce discount pricing or clearance sales for excess inventory to increase sales velocity. Integrating machine learning algorithms into the pricing strategy can help with the dynamic adjustment of prices based on demand and stock levels.
 
-# 8. Data Inconsistencies in Product Performance
+# 7. Data Inconsistencies in Product Performance
 •	Problem: The performance data on some products is inconsistent. For example, certain products are showing low return rates and high sales, but not contributing to profit as expected.
 # Solution:
 o	Actionable Insight: Deepen the analysis by breaking down product performance by product variations, such as color, size, or model. Are certain configurations underperforming? Are there specific supply chain or delivery issues causing delays or dissatisfaction?
